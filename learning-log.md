@@ -10,5 +10,7 @@ Esto aprendendo Git e controle de versão para acompanhar meu trabalho.
 
 ## O Que Aprendi Hoje
 - O Git rastreia alterações em arquivos ao longo do tempo
+- Branches possibilitam que você experimente sem afetar o projeto principal
+- Você pode fundir (merge) as branches quando estiver tudo pronto
 
 source: https://learn.nextwork.org/
