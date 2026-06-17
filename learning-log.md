@@ -15,4 +15,12 @@ Esto aprendendo Git e controle de versão para acompanhar meu trabalho.
 - Branches possibilitam que você experimente sem afetar o projeto principal
 - Você pode fundir (merge) as branches quando estiver tudo pronto
 
+## Resources
+- [Learn Git Fundamentals](https://learn.nextwork.org/projects/8bf3bcb5-a70d-418a-9c76-251365f69028) - Hands-on practice with Git basics
+- [Collaborate with Pull Requests](https://learn.nextwork.org/projects/3ac00a14-cbfc-476a-9a2f-2d9b678880b9) - Hands-on practice with branches, PRs, and merge strategies
+- [Pro Git Book](https://git-scm.com/book/en/v2) - Free comprehensive Git reference
+- [GitHub Docs](https://docs.github.com) - Official GitHub documentation
+- [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
+```)
+
 source: https://learn.nextwork.org/
