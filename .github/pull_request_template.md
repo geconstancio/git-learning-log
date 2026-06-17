@@ -18,3 +18,5 @@ Closes #(número issue)
 - [ ] Minhas mudanças seguem o estilo do projeto
 - [ ] Testei minhas mudanças localmente
 - [ ] Tenho a documentação autualizada caso necessário
+
+- Templates de PR vão economizar tempo em todo pull request futuro
