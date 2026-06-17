@@ -23,4 +23,7 @@ Esto aprendendo Git e controle de versão para acompanhar meu trabalho.
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 ```)
 
+## Próximos Passos
+- Aprender sobre rebasing e rebase interativa.
+
 source: https://learn.nextwork.org/
