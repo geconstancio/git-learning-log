@@ -24,6 +24,8 @@ Esto aprendendo Git e controle de versão para acompanhar meu trabalho.
 ```)
 
 ## Próximos Passos
-- Aprender sobre rebasing e rebase interativa.
+- Aprender sobre rebasing e rebase interativo
+- Explorar o GitHub Actions para automação
+- Praticar contribuir para projetos de código aberto
 
 source: https://learn.nextwork.org/
